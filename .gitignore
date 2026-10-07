@@ -1,0 +1,6 @@
+Output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+docs/demo_video.mp4
