@@ -4,7 +4,6 @@ A command-line tool that collects product data from [Daraz.pk](https://www.daraz
 
 It uses **Playwright** to load the page like a real browser (Daraz fills in product data with JavaScript) and **BeautifulSoup** to parse it. All CSS selectors live in a config file, so if Daraz changes its layout you can update one file instead of the code.
 
-> **Demo video:** `docs/demo_video.mp4`
 
 ![Sample run](docs/demo.png)
 _Add a screenshot of a run or of the output file here._
