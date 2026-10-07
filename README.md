@@ -6,6 +6,7 @@ It uses **Playwright** to load the page like a real browser (Daraz fills in prod
 
 
 ![Sample run](docs/demo.png)
+
 _Add a screenshot of a run or of the output file here._
 
 ---
