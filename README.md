@@ -166,8 +166,5 @@ This project is for educational and demonstration purposes. Before scraping any 
 
 ## Author
 
-**Your Name**: [GitHub](https://github.com/<your-username>) | [Freelancer profile](https://www.freelancer.com/u/<your-username>)
+**Your Name**: [GitHub](https://github.com/afaqsa) | [Freelancer profile](https://www.freelancer.com/u/afaqs33)
 
-## License
-
-MIT License (add a `LICENSE` file if you want to publish under it).
