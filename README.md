@@ -166,5 +166,5 @@ This project is for educational and demonstration purposes. Before scraping any 
 
 ## Author
 
-**Your Name**: [Afaq Sabghatullah](https://github.com/afaqsa) | [Freelancer profile: afas33](https://www.freelancer.com/u/afaqs33)
+**Your Name**: [Afaq Sabghatullah](https://github.com/afaqsa) | [Freelancer profile: afaqs33](https://www.freelancer.com/u/afaqs33)
 
